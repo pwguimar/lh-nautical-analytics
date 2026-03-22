@@ -7,7 +7,7 @@ Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.
 ---
 
 ## Estrutura do Projeto
-
+````
 desafiolighthouse_2026/ 
 ├── 2026_Desafio_Lighthouse_Dados_&_AI.ipynb # Notebook principal 
 ├── streamlit_app.py # Dashboard interativo 
@@ -22,6 +22,7 @@ desafiolighthouse_2026/
 ├── media_vendas_dia_semana.csv # Resultado Q06 
 ├── previsao_demanda.csv # Resultado Q07 
 └── produtos_similares.csv # Resultado Q08
+````
 
 ---
 
