@@ -5,13 +5,13 @@ Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.
 **Ferramentas:** Python 3 · DuckDB · Pandas · Scikit-learn · Streamlit
 ---
 
-## Entregáveis
+## Produtos da Solução
 
-| Descrição | Link |
-|---|---|
-| Notebook Principal | [`2026_Desafio_Lighthouse_Dados_&_AI.ipynb`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
-| Dashboard Interativo (Streamlit) | [`streamlit_app.py`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/streamlit_app.py) |
-| Sumário Executivo (PDF) | [`sumario_executivo.pdf`](sumario_executivo.pdf) |
+oduto | Descrição | Como Acessar |
+|---------|-----------|--------------|
+| **Notebook Analítico** | Análise completa das 8 questões, com código, visualizações e validação cruzada | [Abrir no GitHub](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
+| **Dashboard Interativo** | Visualização dos principais resultados em interface amigável | [Abrir no Streamlit Cloud](https://pwguimar-lh-nautical-analytics.streamlit.app) *ou* executar localmente |
+| **Sumário Executivo** | Relatório em PDF com os principais insights para a diretoria | [`sumario_executivo.pdf`](sumario_executivo.pdf) |
 ---
 
 ---
@@ -36,13 +36,16 @@ desafiolighthouse_2026/
 
 ---
 
-## Como Executar
-
-1.  **Instale as dependências:**
+### 1. Clone o repositório
+```bash
+git clone https://github.com/pwguimar/lh-nautical-analytics.git
+cd lh-nautical-analytics
+  ```
+### 2.  **Instale as dependências:**
     ```bash
     pip install -r requirements.txt
     ```
-2.  **Execute o dashboard:**
+### 3.  **Execute o dashboard:**
     ```bash
     streamlit run streamlit_app.py
     ```
