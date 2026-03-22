@@ -1,8 +1,29 @@
-# LH Nautical — Desafio Lighthouse
+# ⚓ LH Nautical — Desafio Lighthouse
 
-Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.  
-**Autor:** Patrick Wöhrle Guimarães | **Data:** Março de 2026  
-**Ferramentas:** Python 3 · DuckDB · Pandas · Scikit-learn · Streamlit
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-red.svg)](https://streamlit.io/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-0.8.0-green.svg)](https://duckdb.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> Análise estratégica de dados para identificar prejuízos operacionais, mapear clientes de alto valor e prever demanda com baseline de média móvel.
+
+---
+
+## 📊 Sobre o Projeto
+
+A LH Nautical opera em um mercado de ticket elevado com uma assimetria estrutural: **receitas em BRL, custos atrelados ao USD**. Este projeto integra dados de vendas, custos de importação e câmbio diário do Banco Central para revelar:
+
+💰 **R$ 182,2 milhões em prejuízo operacional** identificado  
+📈 **62,8% das transações** realizadas abaixo do custo  
+👑 **10 clientes elite** com ticket médio entre R$ 290K e R$ 336K  
+🎯 **Sistema de recomendação** com similaridade de cosseno  
+
+---
+
+**Autor:** Patrick Wöhrle Guimarães  
+**Data:** Março de 2026  
+**Tecnologias:** Python · DuckDB · Pandas · Scikit-learn · Streamlit
+
 ---
 
 ## Produtos da Solução
