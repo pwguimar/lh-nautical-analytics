@@ -35,18 +35,18 @@ desafiolighthouse_2026/
 ````
 
 ---
-## Como executar Localmente
+### Como executar Localmente
 
-### 1. Clone o repositório
+#### 1. Clone o repositório
 ```bash
 git clone https://github.com/pwguimar/lh-nautical-analytics.git
 cd lh-nautical-analytics
   ```
-### 2.  **Instale as dependências:**
+#### 2.  **Instale as dependências:**
     ```bash
     pip install -r requirements.txt
     ```
-### 3.  **Execute o dashboard:**
+#### 3.  **Execute o dashboard:**
     ```bash
     streamlit run streamlit_app.py
     ```
