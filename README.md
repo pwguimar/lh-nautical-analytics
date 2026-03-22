@@ -8,7 +8,20 @@ Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.
 
 ## Estrutura do Projeto
 
-desafiolighthouse_2026/ ├── 2026_Desafio_Lighthouse_Dados_&_AI.ipynb # Notebook principal ├── streamlit_app.py # Dashboard interativo ├── requirements.txt # Dependências ├── vendas_2023_2024.csv # Dataset de vendas ├── produtos_raw.csv # Catálogo de produtos ├── custos_importacao.json # Custos de importação ├── clientes_crm.json # Dados de CRM ├── prejuizo_agregado.csv # Resultado Q04 ├── clientes_elite.csv # Resultado Q05 ├── categorias_elite.csv # Resultado Q05 ├── media_vendas_dia_semana.csv # Resultado Q06 ├── previsao_demanda.csv # Resultado Q07 └── produtos_similares.csv # Resultado Q08
+desafiolighthouse_2026/ 
+├── 2026_Desafio_Lighthouse_Dados_&_AI.ipynb # Notebook principal 
+├── streamlit_app.py # Dashboard interativo 
+├── requirements.txt # Dependências 
+├── vendas_2023_2024.csv # Dataset de vendas 
+├── produtos_raw.csv # Catálogo de produtos 
+├── custos_importacao.json # Custos de importação 
+├── clientes_crm.json # Dados de CRM 
+├── prejuizo_agregado.csv # Resultado Q04 
+├── clientes_elite.csv # Resultado Q05 
+├── categorias_elite.csv # Resultado Q05 
+├── media_vendas_dia_semana.csv # Resultado Q06 
+├── previsao_demanda.csv # Resultado Q07 
+└── produtos_similares.csv # Resultado Q08
 
 ---
 
