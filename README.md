@@ -43,13 +43,13 @@ git clone https://github.com/pwguimar/lh-nautical-analytics.git
 cd lh-nautical-analytics
   ```
 #### 2.  **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+ ```bash
+ pip install -r requirements.txt
+ ```
 #### 3.  **Execute o dashboard:**
-    ```bash
-    streamlit run streamlit_app.py
-    ```
+```bash
+streamlit run streamlit_app.py
+```
 
 ---
 
