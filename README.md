@@ -9,8 +9,8 @@ Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.
 
 | Descrição | Link |
 |---|---|
-| Notebook Principal | [`2026_Desafio_Lighthouse_Dados.ipynb`](2026_Desafio_Lighthouse_Dados.ipynb) |
-| Dashboard Interativo (Streamlit) | [`streamlit_app.py`](streamlit_app.py) |
+| Notebook Principal | [`2026_Desafio_Lighthouse_Dados_&_AI.ipynb`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
+| Dashboard Interativo (Streamlit) | [`streamlit_app.py`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/streamlit_app.py) |
 | Sumário Executivo (PDF) | [`sumario_executivo.pdf`](sumario_executivo.pdf) |
 ---
 
