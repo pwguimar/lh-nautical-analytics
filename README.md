@@ -9,7 +9,7 @@ Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.
 
 oduto | Descrição | Como Acessar |
 |---------|-----------|--------------|
-| **Notebook Analítico** | Análise completa das 8 questões, com código, visualizações e validação cruzada | [Abrir no GitHub](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
+| **Notebook Analítico** | Análise completa das 8 questões, com algoritmo (em .ipynb), visualizações e validação cruzada | [Abrir no GitHub](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
 | **Dashboard Interativo** | Visualização dos principais resultados em interface amigável | [Abrir no Streamlit Cloud](https://pwguimar-lh-nautical-analytics.streamlit.app) *ou* executar localmente |
 | **Sumário Executivo** | Relatório em PDF com os principais insights para a diretoria | [`sumario_executivo.pdf`](sumario_executivo.pdf) |
 ---
@@ -35,6 +35,7 @@ desafiolighthouse_2026/
 ````
 
 ---
+## Como executar Localmente
 
 ### 1. Clone o repositório
 ```bash
