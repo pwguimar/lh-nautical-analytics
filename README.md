@@ -32,7 +32,7 @@ oduto | Descrição | Como Acessar |
 |---------|-----------|--------------|
 | **Notebook Analítico** | Análise completa das 8 questões, com algoritmo (em .ipynb), visualizações e validação cruzada | [Abrir no GitHub](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
 | **Dashboard Interativo** | Visualização dos principais resultados em interface amigável | [Abrir no Streamlit Cloud](https://lh-nautical-analytics.streamlit.app/) *ou* executar localmente |
-| **Sumário Executivo** | Relatório em PDF com os principais insights para a diretoria | [`sumario_executivo.pdf`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/Sumario_Executivo.pdf)) |
+| **Sumário Executivo** | Relatório em PDF com os principais insights para a diretoria | [`Sumário Executivo`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/Sumario_Executivo.pdf) |
 ---
 
 ---
