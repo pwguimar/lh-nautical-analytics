@@ -1,12 +1,22 @@
 # LH Nautical — Desafio Lighthouse
 
 Solução completa do Desafio Técnico de Dados & IA da Indicium Academy.  
-**Analista:** Patrick | **Data:** Março de 2026  
+**Autor:** Patrick Wöhrle Guimarães | **Data:** Março de 2026  
 **Ferramentas:** Python 3 · DuckDB · Pandas · Scikit-learn · Streamlit
+---
+
+## Entregáveis
+
+| Descrição | Link |
+|---|---|
+| Notebook Principal | [`2026_Desafio_Lighthouse_Dados.ipynb`](2026_Desafio_Lighthouse_Dados.ipynb) |
+| Dashboard Interativo (Streamlit) | [`streamlit_app.py`](streamlit_app.py) |
+| Sumário Executivo (PDF) | [`sumario_executivo.pdf`](sumario_executivo.pdf) |
+---
 
 ---
 
-## Estrutura do Projeto
+## Estrutura do Projeto no Github
 ````
 desafiolighthouse_2026/ 
 ├── 2026_Desafio_Lighthouse_Dados_&_AI.ipynb # Notebook principal 
