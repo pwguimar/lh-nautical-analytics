@@ -30,7 +30,7 @@ A LH Nautical opera em um mercado de ticket elevado com uma assimetria estrutura
 
 oduto | Descrição | Como Acessar |
 |---------|-----------|--------------|
-| **Notebook Analítico** | Análise completa das 8 questões, com algoritmo (em .ipynb), visualizações e validação cruzada | [Abrir no GitHub](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) |
+| **Notebook Analítico** | Análise completa das 8 questões, com algoritmo (em .ipynb), visualizações e validação cruzada | [Abrir no GitHub](https://github.com/pwguimar/lh-nautical-analytics/blob/main/2026_Desafio_Lighthouse_Dados_%26_AI.ipynb) ou [Abrir no Colab](https://colab.research.google.com/drive/1TatMJBMukne5uec2PzQfXvsmqxaaGSjQ?usp=sharing) |
 | **Dashboard Interativo** | Visualização dos principais resultados em interface amigável | [Abrir no Streamlit Cloud](https://lh-nautical-analytics.streamlit.app/) *ou* executar localmente |
 | **Sumário Executivo** | Relatório em PDF com os principais insights para a diretoria | [`Sumário Executivo`](https://github.com/pwguimar/lh-nautical-analytics/blob/main/Sumario_Executivo.pdf) |
 ---
